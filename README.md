@@ -5,6 +5,7 @@ Active911 for Node.js
 [![npm version](https://badge.fury.io/js/active911.svg)](https://badge.fury.io/js/active911)
 
 by Ben Burwell <ben@benburwell.com>
+fixed by ya boi ethano <ethan@ctk.wtf>
 
 Installation
 ------------
